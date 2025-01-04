@@ -5,9 +5,10 @@ Education:
   + Major: Chemistry
 - Hanoi University of Science and Technology
   + Major: Automotive Engineering
+
 🤖 How to reach me:
--Email: minhnguyenduc1205@gmail.com
--Linkedin: www.linkedin.com/in/ducnguyenminh1205
+- Email: minhnguyenduc1205@gmail.com
+- Linkedin: www.linkedin.com/in/ducnguyenminh1205
 
 ----------------------------------------------
 <!---
